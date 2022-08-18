@@ -33,7 +33,7 @@ public class ArrayFormOfInteger {
         System.out.println("Please enter the length of Array: ");
         int l = sc.nextInt();
 
-        System.out.println("Please enter the to add in Array: ");
+        System.out.println("Please enter the number to add in Array: ");
         int k = sc.nextInt();
 
         //int length = String.valueOf(k).length();
