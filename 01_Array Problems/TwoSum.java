@@ -50,7 +50,7 @@ public class TwoSum {
         System.out.println("Please enter target: ");
         int target = sc.nextInt();
 
-        System.out.println("Array is: "+ Arrays.toString(nums));
+   
         System.out.println("Indices is: "+Arrays.toString(twoSum(nums, target)));
     }
     public static int[] twoSum(int[] nums, int target){
